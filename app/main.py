@@ -20,3 +20,4 @@ def format_linter_report(linter_report: dict) -> list:
         for filepath, error in linter_report.items()
     ]
 
+
